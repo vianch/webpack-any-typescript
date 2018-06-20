@@ -59,3 +59,35 @@ typings/
 
 # next.js build output
 .next
+
+#production
+documentation/
+www/
+www/js
+www/css
+www/index.html
+platforms/
+plugins/
+build/
+*.swp
+.DS_Store
+Thumbs.db
+
+#Sublime
+*.sublime-project
+*.sublime-workspace
+.sublime-grunt.cache
+
+#webstorm
+.idea
+.idea/atlassian-ide-plugin.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.gradle
+local.properties
+*.iml
+
+#visual studio code
+.vscode
+.vscode/launch.json
+.vscode/settings.json
