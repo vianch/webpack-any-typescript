@@ -95,7 +95,7 @@ var registerList =
 /*! ModuleConcatenation bailout: Module is not an ECMAScript module */
 /***/ (function(module, exports) {
 
-eval("var HelloDog = /** @class */ (function () {\n    function HelloDog() {\n    }\n    HelloDog.greetings = function () {\n        console.log(\"Hello dog!\");\n    };\n    return HelloDog;\n}());\n\n\n//# sourceURL=webpack://registerList/./src/main.ts?");
+eval("var HelloDog = /** @class */ (function () {\n    function HelloDog() {\n    }\n    HelloDog.greetings = function () {\n        console.log(\"Hello dog!\");\n    };\n    return HelloDog;\n}());\nHelloDog.greetings();\n\n\n//# sourceURL=webpack://registerList/./src/main.ts?");
 
 /***/ })
 

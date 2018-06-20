@@ -3,3 +3,5 @@ class HelloDog {
     console.log(`Hello dog!`);
   }
 }
+
+HelloDog.greetings();
