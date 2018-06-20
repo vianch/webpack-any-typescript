@@ -1,0 +1,8 @@
+{
+  "app": {
+    "js": "/assets/js/app.bundle.js"
+  },
+  "": {
+    "html": "/assets/js/../../index.html"
+  }
+}
